@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <h3 align="center">Competitive programmer | | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <a href="mailto:subahnoshin1234@gmail.com">
+  <a href="subahnoshin1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/subahNoshin">
+  <a href="https://linkedin.com/in/subah-noshin-2b796a302">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/subahNoshin">
+  <a href="https://github.com/SubahNoshin">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black" alt="GitHub Badge"/>
   </a>
 </p>
