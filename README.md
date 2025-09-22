@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Profile Header -->
-<h1 align="center">Mst. Subah Noshin</h1>
-<h3 align="center">Aspiring Data Scientist | EEG Signal Analysis | Machine Learning | Privacy-Preserving AI</h3>
+<h1 align="center">Subah Noshin</h1>
+<h3 align="center">Competitive programmer | | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <a href="mailto:safinahmmed@cse.kuet.ac.bd">
+  <a href="mailto:subahnoshin1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/subahNoshin">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ---
 
 ## 👩‍💻 About Me
-I'm a final-year **Computer Science and Engineering student at KUET**, passionate about transforming raw data into actionable insights.  
+I'm a graduate from **Computer Science and Engineering student at KUET**, passionate about software engineering ,development area.  
 
 🔹 My current research focuses on **EEG signal classification** using **privacy-preserving techniques** like **homomorphic encryption** and **cryptography**.  
 🔹 Skilled in **data preprocessing, feature extraction, and model building** for brain-computer interface (BCI) applications.  
