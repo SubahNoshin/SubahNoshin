@@ -51,18 +51,7 @@ I'm a graduate from **Computer Science and Engineering student at KUET**, passio
 
 ---
 
-## 📊 My Projects
-Here are some of my key projects that showcase my skills in **Python**, **EEG signal processing**, and **machine learning**.
 
-| **Project** | **Description** | **Technologies Used** |
-|-------------|----------------|------------------------|
-| [**Encrypted EEG Classification**](https://github.com/subahNoshin/encrypted-eeg-classification) | Privacy-preserving EEG signal classification using **homomorphic encryption (CKKS)** and a feedforward neural network. | Python, TenSEAL, PySEAL, NumPy, Scikit-learn |
-| [**Motor Imagery EEG Analysis**](https://github.com/subahNoshin/motor-imagery-eeg) | Classifying EEG data of **fist vs feet movement** using frequency and time-domain features. | Python, MNE, Pandas, TensorFlow |
-| [**Healthcare Data Security Simulation**](https://github.com/subahNoshin/healthcare-privacy) | Simulating secure storage and access control for healthcare datasets. | Python, SQL, Cryptography |
-| [**Data-Driven Drug Delivery Optimization**](https://github.com/subahNoshin/drug-delivery-ml) | Predicting optimal drug delivery strategies using machine learning models. | Python, Scikit-learn, Pandas |
-| [**E-commerce Database Design**](https://github.com/subahNoshin/ecommerce-db) | Designed MySQL database schema for an e-commerce platform. | MySQL, ERD, SQL |
-
----
 
 ## 🔐 Specialized Research in Data Security & Privacy
 My academic research dives deep into **homomorphic encryption**, **cryptographic protocols**, and **privacy-preserving machine learning**.
@@ -73,18 +62,6 @@ My academic research dives deep into **homomorphic encryption**, **cryptographic
 
 ---
 
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/subahNoshin/encrypted-eeg-classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subahNoshin&repo=encrypted-eeg-classification&theme=radical" />
-  </a>
-  <a href="https://github.com/subahNoshin/motor-imagery-eeg">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subahNoshin&repo=motor-imagery-eeg&theme=radical" />
-  </a>
-</p>
-
----
 
 ## 📈 GitHub Contribution Activity
 <p align="center">
@@ -95,10 +72,4 @@ My academic research dives deep into **homomorphic encryption**, **cryptographic
 
 ---
 
-## 🌐 Let's Connect
-<p align="center">
-  <a href="mailto:safinahmmed@cse.kuet.ac.bd"><img src="https://img.shields.io/badge/Email-Contact-red"></a>
-  <a href="https://www.linkedin.com/in/subahNoshin"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
-  <a href="https://github.com/subahNoshin"><img src="https://img.shields.io/badge/GitHub-Portfolio-black"></a>
-</p>
 
